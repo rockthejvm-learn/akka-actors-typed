@@ -1,0 +1,10 @@
+.bsp/
+.idea/
+
+target/
+data/
+
+*.iml
+
+.DS_Store
+
